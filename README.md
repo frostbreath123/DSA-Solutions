@@ -1,2 +1,2 @@
 # DSA Problems
-DSA problems in Leetcode and  Geeks for Geeks !.. 
+DSA problems solved using java
