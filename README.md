@@ -1,2 +1,2 @@
-# DSA-Solutions
-DSA solutions
+# DSA Problems
+DSA problems in Leetcode and  Geeks for Geeks !.. 
